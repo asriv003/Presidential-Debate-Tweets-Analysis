@@ -1,0 +1,435 @@
+ACoruña	JISBD  
+Aalborg	CSE SPLINE  
+Aberdeen	EANN SoMePeAS  
+Aberystwyth	SAB  
+Adelaide	DPBA APCCM DICTA  
+Agra	HTC  
+Ahmedabad	COMAD  
+Aizu-Wakamatsu	DNIS MLSLP  
+Aksaray	SIN  
+Alicante	Big Data  
+Allahabad	IAC3T  
+Almería	JISBD  
+Amantea	MEDI ODBASE  
+Amman	CSIT ICICS  
+Amritapuri	RAHA  
+Amsterdam	VARVAI MLPRA EvoMUSART EuroGP ECCV UAI  
+Anaheim	MLSCPS  
+Anchorage	IJCNN  
+Antwerp	DBDBD  
+Arlington	AI-HRI  
+Arras	IEA/AIE  
+Asilomar	CIDR  
+Athens	LWDM EnDM IC-ININFO EDBT HDMS DaMoN SSCI MobiDE IDAR DBTest IEEE-CISDA DBSocial ECML/PKDD GraphQ  
+Atlanta	GTM ICCBR RATIC  
+Atlantic_City	ICDM MobileDM HADM DaMNet DMCities SABID  
+Auckland	PAKDD BDM APCCM  
+Augsburg	DSS SASO  
+Austin	HCOMP SeMaT MLHPC  
+Bahrain	WoTBD  
+Bali	ISCBI  
+Bandar_Seri_Begawan	ICMIP  
+Bangalore	NCCOCE IWFBDC MDM COMAD  
+Bangkok	ICCIS IES SoDAC ICMEAE ICAAI ICEESM ICCRE ICSCA  
+Barcelona	WMLI ICCES EWRL ITMLS FILM IDEAS IRRATIONAL TRANSACT NIPS Graph-TA CCIA ICDM ICIST DAPS DMIoT DaMNet DMS DSBDA serecsys WiML MDDM SoMeRis CML ML4HC MindCare ICCMA  
+Bari	EESMS DS  
+Beijing	ICEIS RTIS ICCSN ICMVA ICBDA ICOSE SKG QoS DAB HIS CCKS IEEE-CSCloud DS4IDS ICIKM ICCSSE  
+Belgrade	ICDSST  
+Beni_Suef	AISI  
+Benicassim	SummerSchoolML SSML  
+Bergen	EuroVA  
+Berlin	RuleML ICDT AGI GCAI CAIA  
+Bilbao	HAIS  
+Bonn	OrdRing  
+Bordeaux	FoIKS ICDT  
+Boston	RWVW PAPIs DLRS  
+Bragança_-_Portugal	ICARSC  
+Brindisi	CN4IoT  
+Brisbane	AV+EC GDM ICDE PrivDB MDM ADC SMDB  
+British_Columbia	MLRec  
+Bruges	ESANN RandomizedML  
+Brunei	CIIS  
+Brussels	DAPHNE DBDBD  
+Bucaramanga	STSIVA  
+Bucharest	ICMR  
+Budapest	EUSIPCO SPECOM SMC  
+Buenos_Aires	IP GIGA AdaptiveNLP  
+Burlingame	VDA Electronic-Imaging DOLAP  
+Busan	FlashDB  
+Będlewo	TFML  
+Cadiz	AISTATS IPMU JISBD  
+Cagliari	KDWEB  
+California	MLPM  
+Cambridge	NEDB AIKED SWM WSDM  
+Canberra	ACALCI ICAD  
+Cancun	AIVAHC VAAM  
+Cape_Town	CIDM  
+Cardiff_University	CVM  
+Changsha	ICDSC APWeb  
+Chania	HDMS SSDBM  
+Chengdu	CPSCom GreenCom iThings SmartData Big Data CyberC ICDLT IEEE-ICDDM IEEE-ICCCBDA IEEE--ICCCBDA IEEE-ICIM ICIVC DataCom SocialCom SustainCom ICOK ICKD IEEE-ICICM CMAME  
+Chennai	ACSTY AIFZ SPTM  
+Chiang_Mai	MIWAI ICACI  
+Chicago	DMC ICDE ParLearning SMDB MWDHealth CloudDB GDM  
+Chihuahua	ENC  
+Chongqing	IEEE-ITOEC ICMMR  
+Clare_College	ICITM-IEEE  
+Clarkson_University	MaxEnt  
+Classic_Kameo_Hotel	SNLP  
+Clermont-Ferrand	EDA RFIA TC4SP  
+Cluj-Napoca	ICCP  
+Coimbra	DTTA ASIIS EPIA  
+Colchester	CEEC  
+Colombo	ICDCST  
+Columbia_University	LWMOOCs  
+Como	BigDAW  
+Constantine	icaase  
+Copenhagen	TIME  
+Cotonou	Mine4Dev  
+Covilhã	AIoT  
+Cracow	SFI TFML  
+Craiova	CPS  
+Cuenca	SIPAIM  
+Curitiba	SBBD  
+Cusco	SNMAM  
+Cuzco	SIMBig  
+Cyprus	Sideways  
+Daegu	ISIS  
+Daejeon	IROS  
+Dalian	SmartX  
+Dallas	TIDM BDQM BiDaDA SocialSens SeCoP  
+Darmstadt	Infer  
+Davis	SNAA  
+Dayton	SUM MAICS  
+Delft	ICGI  
+Denver	SAEOpt GECCO AISec  
+Depok	ICACSIS  
+Detroit	AMCIS  
+Druskininkai	WISTIPS ISSEA AKTS  
+Dubai	CCISP SIGNAL CSE AI&FL CCSEA ICIST DKMP IEEE--ISCBI NTMS IEEE-ISCMI MECHA AISO DBDM MECN ICAITA  
+Dublin	AICS  
+Edinburgh	L@S BICOD  
+Egypt	AISI  
+Evanston	CACS  
+Florence	ECDM MORE-BI BigScholar  
+Fort_Lauderdale	AISTATS  
+Fort_Wayne	MAICS  
+Fukuoka	IML  
+Funchal	EsPreSSE  
+Gaithersburg	NISTBigData  
+Galway	LDK  
+Gdansk	AAIA AIMaViG AIMA DSTUI AIRIM WCO  
+Gdynia	InWebTech CABDA  
+Geneva	AIAPP  
+Genova	PAIS GraphQ BigData ICDT BIGProv EnDM EDBT AIAAL BEWEB  
+Gifu	ER KES  
+Gijón	IFSA-EUSFLAT  
+Glasgow	DOLAP SLPCS CIKM SISAP CloudDB  
+Gold_Coast	ADMA  
+Gran_Canaria	CSTSC WISA  
+Graz	ODBASE ALatIKNOW  
+Greenville	IVAE  
+Guangzhou	ICWAPR ICONIP ICMLC  
+Guayaquil	CITI  
+Guildford	HealthDENSE  
+Haifa	DAB  
+Halifax	KDD FuturePD  
+Hamilton	TMNZ ACML AWRL  
+Hammamet	ICICDS  
+Hangzhou	BIRTE VLDB IDAVis  
+Hanoi	DASFAA PR4MCA  
+Harbin	MDSP XMLDM  
+Hasselt	IUPT  
+Hatyai	JCSSE  
+Heidelberg	frontiersQS  
+Helsinki	ICDE RTStreams BigDataSE IEEE-CPBG  
+Heraklion	TaPP  
+Hertfordshire	ICKET ICDLE  
+Ho_Chi_Minh	PAKDD ICCRD FDSE ICMLSC  
+Hobart	AI  
+Hollywood	FLAIRS  
+Hong_Kong	ACML ICRAS CRC D-CLOUD BigData4Healthcare ICBCT ICACTE IEEE-SMC MCMC ESBD ICBCB ISCMI ICBEA ICVR  
+Houston	SDM  
+Hsinchu_City	Oriental-COCOSDA  
+Huddersfield	CSMC PlanSIG  
+Hue_City	ICTCC  
+Hyderabad	IWFBDC USEWOD COMAD ICICSE  
+Incheon	EDB  
+India	BISIP  
+Indianapolis	DAVA CyberSafety  
+Instabul	DBRank  
+Institut_Teknologi_Brunei	SoDM  
+Irbid	ICICS  
+Islamabad	IEEE-ICRAI ICDIM  
+Island_of_Rhodes	MHDW  
+Issyk_Kul	EMACOM  
+Istanbul	QDB MDDE PersDB SDM ICSENT ICONIP ICCS Disaster-Management VLDB BIRTE BigData  
+Itaipava	KDMILE  
+Jaipur	ICSCE  
+Jakarta	ICOCB  
+Jeju_Island	ICRAE BigComp ICMDM ICCIA PAKDD IEEE-BigComp ASC ICDIM  
+Journal	Fusion in Biometrics  
+Kanazawa	MAMLAKE ADS  
+Kansas_City	ICSR  
+Kanyakumari	ICASC ICICT  
+Kaohsiung	FDML ACIIDS BigData IDAM SocialInformatics  
+Katmandu	ICAIT  
+Kaunas	IVUS  
+Kayseri	ICMSCE  
+Kazan	SYRCoDIS  
+Key_Largo	FLAIRS  
+Khenchela	PAIS  
+Khon_Kaen	JCSSE  
+Kitakyushu	ICAIR ISAIR CACRE  
+Klagenfurt	Insight KI MaLTeSQuE  
+Kobe	URSW  
+Koblenz	IMDM  
+Kochi	ICIS ICDSE  
+Kohala_Coast	VLDB  
+Kolkata	LSCNA  
+Kortrijk	ICDES  
+Krabi	ACIS  
+Kuala_Lumpur	BDI DaEng SCDS ICINS-ACM ICSN ACIIDS ICDMM CCEAI ACMME ICDPR ICIMT  
+Kyoto	ICONIP ICNCC-ACM ILP SITIS TGC  
+La_Habana	CIIISI CICCI  
+Lago_Di_Garda	VLDB  
+Laguna_Hills	SCSN  
+Lake_Placid	WACV  
+Lakeland	ICCDA  
+Langkawi	ICEDA ICCBB  
+Lappeenranta	NSAIS  
+Larnaca	JELIA  
+Las_Vegas	DIM ITNG PBVS CVVT IKE  
+Leiden	NN  
+Leon_Spain	HPCAC  
+Lille	STAMLINS MUD MLOSS FEAST MLIS  
+Lima	CIARP  
+Limassol	IUI  
+Limerick_City	ICOAI  
+Lincoln	ACTION  
+Lisbon	DBKDA ECTA ICBBT DILS IDEAS  
+Liverpool	BigData  
+Liège	NLDB  
+Lodz	KAM ICIA MSA  
+London	ANT DARS ILP MOCO IE IntelliSys ICMAE DaMIS SDA LIIE ICAIL IUPT ICAPS PLP BigD2M YSM  
+Los_Angeles	IVA ICMLA  
+Los_Cabos	SISAP  
+Lucerne	ICIIL ICVED ICSAE ICTTE  
+Lyon	StoryCase  
+Macau	ICISA CSBio HardBD Oriental-COCOSDA  
+Madeira	Sideways  
+Madrid	BigD2M DMDMS COMPRAIL INISTA ICINCO EDM  
+Magdeburg	DMC  
+Malacca	ICMAA  
+Malang	ICACSIS  
+Malatya	IDAP  
+Manchester	TLAD BNCOD  
+Maratea	SEBD  
+Marburg	SUM  
+Marco_Island	ISDM FLAIRS SLIE RecSys  
+Marrakech	AECIA SACCOCO KRR  
+Marseille	CAP EUVIP  
+Mashhad	ITPF  
+Massachusetts_Institute_of_Technology	L@S  
+Mathematics_in_Computer_Science	SI-MCS  
+Matsue	ICA  
+Maui	CDMW CloudDB CIKM  
+Meknes	ICITA  
+Melbourne	CIKM ADC IIP DTMBIO ESAIR IJCAI SIGMOD  
+Menlo_Park	XLDB  
+Mevlana_University	BigData  
+Mexico_City	ICIMN MIKE  
+Miami	ISM SDM MLPMEA ICMLA  
+Milan	CMS ISDSA  
+Minneapolis	SSTD  
+Montevideo	CIARP  
+Montpellier	JFPC ECAI-AIL  
+Montreal	MPCHS Balisage VAST IEEE-DSAA LearningSys NIPS WWW DILS SummerSchool WiML SNOW EnGeoData  
+Moscow	ICMDA ICRMV CLA DIPDMWC EEML ICMSCE ICOAE SYRCoDIS  
+Mountain_View	DocEng  
+Mulhouse	ICSIBO  
+Munich	NoSQL-Net ATGRC SSTD AECM DaWaK  
+Mérida	ISICS  
+Nagasaki	FCST  
+Nagoya	ICCAR  
+Naiguatá	CLTM CIESC CLEI  
+Nanchang	MWDA  
+Nanjing	AIR  
+Nantes	WOD  
+Nanyang_Technological_University	ICDEPI  
+Naples	CIBB KARE  
+New_Brunswick	FOCS  
+New_Delhi	OMSA QDB VLDB  
+New_Orleans	IWSPA  
+New_Taipei	IEEE-ICRAS  
+New_York	ATT MLDM TPDP BOOM SML LaSh SIGMOD PODS SocInf COLT ICML RuleML ICMR HLT-IA DyNetMM WebDB SWEET DaMoN DBSocial UAI MobiDE AGI HINA AIC SocialNLP IJCAI-SBD IML Bridging DeepRL BeyondLabeler  
+Newcastle	AITIC  
+Nice	ICMV SUM  
+Nicosia	ADBIS  
+Nîmes	JFGG  
+Nörten-Hardenberg	GvDB  
+Obninsk	DAMDID  
+Odisha	ICCIDM  
+Oldenburg	EnviroInfo  
+Olten	ISCBI  
+Omaha	EdRecSys IoA  
+Online	ECSA  
+Opatija	CMEM miproBIS  
+Orlando	GlobalSIP  
+Osaka	WNUT SANER  
+Ostrava	ALICE ECC  
+Ottawa	CogMan  
+Ouagadougou	AFRICOMM  
+Oum_El_Bouaghi	ICCSA  
+Ouro_Preto	AMW  
+Oxford	BNCOD IEEE-BigDataService DEOS  
+Paderborn	SysInt  
+Padova	CPAIOR  
+Palais_des_Congrès_Neptune	ICLR  
+Palawan	PCSC  
+Panama_City	AMW  
+Paphos	exploreWeb WISE CSE  
+Paris	ICCTD ICMRE ICKSE ICMSI WOD AECIA KEOD MobiArch DSAA MANEM ICSRS SNAA ASONAM  
+Penang	ICRMM ISCI  
+Philadelphia	INFORMS-DMA MASC-SLL  
+Phoenix	ICSH  
+Phuket	DMCIT PRIMA PRICAI PKAW CSMO  
+Pittsburgh	MobiSocial S3PBIGDATA MDM DIM C-Big  
+Ploiesti	ECAI  
+Poitiers	MEDI GID ADBIS  
+Portland	SSDBM  
+Porto	VISUM MetaSel EvoMUSART BDL VISAPP KALSIMIS HSP ICORES ICPRAM ICAART EPIA CLOSER PIS MoReBikeS MLSA ECML-AALTD ECML-MLLS ECML/PKDD MUSE PDCKDD BIOKDD ITBAM ICDIM AIM  
+Portoroz	ESWC LDMC Sideways  
+Portsmouth	ICIVC  
+Potsdam	KDML  
+Poznan	MCSD  
+Prague	IDEAS TSD ICMAE ADAPT SSC ICBO RSmeetDB DEXA DaWaK ICAIR VS3 ICITCS  
+Puebla	LANMR AMW  
+Puerto_de_la_Cruz	KES  
+Pune	ML-HPC COMAD CODS  
+Qingdao	WAIM  
+Qinhuangdao	ICAST  
+Quebec	SUM  
+Quito	INCISCOS  
+Rabat	INTECH  
+Raleigh	SBD EDM CSPRED SIGMOD  
+Recife	PIS  
+Reduit	BigData  
+Reggio_di_Calabria	PAML  
+Reunion_Island	DBKDA  
+Reykjavík	NMRPC  
+Riga	Archiving DB&IS UOII  
+Rio_de_Janeiro	ATSS PQ  
+Riva_del_Garda	SSDM MLSA MIDAS ECML-PKDD DBCrowd PersDB DARE Cloud-I  
+Riyadh	KACSTIT SDMA  
+Roccella_Jonica	SEBD  
+Rome	DATA ICE-B IASIM SOMOCO NIMD DCNET  
+Rostov-on-Don	IITI  
+Rotterdam	DBDBD  
+Rouen	JFSMA  
+Rourkela	ICACNI  
+Saint-Etienne	IDA  
+Saint-Petersburg	WOD  
+Salamanca	SEPLN  
+Salt_Lake_City	ML-HPC PDAC  
+Salzburg	iDSC PAML  
+SanJose	ISW-LOD IBERAMIA  
+San_Diego	BBC KDD ACTIVE ICDE SEDE HDMM  
+San_Francisco	ODD IDEA CloudDB UrbComp KDD MLG CD SIGMOD DIM NoCoDA  
+San_Jose	SoCC ICTAI  
+San_Juan	ICLR  
+Santa_Clara	Big Data IEEEBDAM SoCC ICWS BigData BigGraphs ITxOT-Analytics  
+Santa_Fe	COSIT  
+Santiago	IJCRS BAFI AMW  
+Santiago_de_Chile	TASK-CV  
+Santorini_Island	CIG  
+Sao_Paulo	AAMAS SBBD  
+Sapporo	ISNN SCIS-ISIS  
+Sarawak	ICMST  
+Sardinia	ICANN  
+Savannah	CogSIMA  
+Scottsdale	SIGMOD DBSocial PODS WebDB IWSPA DBTest MobiDE  
+Seattle	HPCDB DBPL DBRank VLDS QDB TPCTC VLDB SDM  
+Seoul	SSTD SIAI IE ICMMME SenseML DEOS EDB BDTA  
+Sevilla	WebMiReS PAAMS SE4GT WOSCIA DCNET HAIS FETLT  
+Shah_Alam	PEOCO  
+Shanghai	ICEMT IWBDS UCC-IDP PIC MLICOM ICMME  
+Shenzhen	IEEE-HPSC FMBBS ICDM  
+Sinaia	INISTA  
+Singapore	WEIN ICMEAE ICROM IEEE-ICCRE GDAM EXPLORE ICAME ALA IEEE-ICKEA AAMAS CMVIT ICFET ICMERR IWPR TENCON-SS-CITA ICIAI ICMLC ISSNIP CIKM ICSIP-IEEE IEEE-CCSSE ICCDM SecMAS ICIAE ADMI IEEE--ICSGSC IEEE--ICAVE ICITE ICCIP COOS  
+Skopje	ECML-PKDD  
+Snowbird	RDSS WebDB PODS DaMoN SWEET DanaC GRADES BUDA DSMM  
+Soonchunhyang_(SCH)_University	SiPML  
+Sorrento	KES  
+Sorrento_Coast	SEBD  
+South_Carolina	ICISDM  
+St._Petersburg	ISMW  
+Stanford	PRNI  
+Stellenbosch	PRASA-RobMech  
+Stirling	CIBB  
+Stockholm	IDA  
+Studies_in_Computational_Intelligence	CyberSec  
+Sturovo	DIVAI  
+Stuttgart	BigSys BTW NetSys  
+Suzhou	APWeb DASFAA  
+Sweden	NDM  
+Sydney	KDD DMS ITCSE ICCAE DaMEN PAPIs ISWC-InUse ODD SRS ARIA IDEA ICML  
+Tainan	TAAI PAKDD  
+Taipai	ACCV  
+Taipei	WINVIZNN NTIRE ISNEM  
+Takamatsu	SNPD  
+Tallinn	DB&IS  
+Tehran	NN  
+Tenerife	KES  
+The_Beskids	ICMMI  
+The_Hague	EGPAI ECAI AmILP COREDEMA PrAISe MLSB STAIRS  
+The_University_of_British_Columbia	ICCSE  
+Thessaloniki	SMLIR ITSBD MT4BD SETN MHDW  
+Thu_Dau_Mot_City	ICCASA  
+Tianjin	CCML  
+Timisoara	SMART SYNASC  
+Tirana	EIDWT  
+Tokyo	DSAA ICKE ICRCA WCSE ICIET ACIRS SPIE-ICGIP SISAP  
+Toronto	SISAP  
+Toulose	MIMIC  
+Toulouse	Globe SIMCA DBLM DALI RSmeetDB E-LKR DEXA DaWaK RSDA  
+Trento	BIRTE QDB DBPL  
+Trier	KDML  
+Tromsø	SCIA  
+Tumkur	ICECIT  
+Tunisia	ICBNA  
+Turin	VAAM  
+Twente	DBDBD  
+USA	4DML  
+Ulm_University	MCS ANNPR  
+Ulsan	HSI  
+Ustron	BDAS  
+Valencia	IMMM EUMAS AT PIMRC EACL-SRW BIOKDD EASL DaWaK  
+Valparaiso	CRoNe  
+Vancouver	WCCI SDM PPDMA IROS SoEA4EE DDDM SET FMML IJCNN  
+Varazdin	CECIIS  
+Veliko_Tarnovo	DIPP  
+Veliky_Novgorod	SYRCoDIS  
+Vellore	SoCPaR  
+Venice	CISIM SEBD GOODTECHS  
+Victoria	AI  
+Vienna	RecSys DaWaK DMAP AIAP GeoDBIS TSP ADBIS GID RSmeetDB DBLM SOTM-EU CCSEIT DATA ARIN DMDB  
+Vietri_Sul_Mare	WIRN MLSP  
+Vilamoura	KES  
+Vilnius	DB&IS  
+Volos	FCM  
+Volterra	MOD  
+Warsaw	IEEE--ICOIP SPCIES PBDA ISMIS  
+Washington_DC	GlobalSIP GDM STIR SDMSM DMC SMDB FUSION BMLIT BigEMPS SDAAM SABID EHRW AIPR BigGraphs BDSAV SCDM BBH  
+West_Bengal	TSCT  
+World_Scientific	Call for Book Chapters  
+Wroclaw	ENIC NetSciX CORES DSBD IDEAL  
+Wuhan	ICCSP WCSE ACIRS ICRV ISAIR DASFAA AIACT ICMIP  
+Xi'an	Big Data ICMMR MobiMedia CyberC  
+Yangzhou	IDEAL  
+Yogyakarta	ICITDA  
+Yokohama	JSAI  
+York	KES  
+Zagreb	ITS IMS  
+Zakopane	ICAISC  
+Zurich	DMS AISC
