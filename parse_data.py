@@ -8,7 +8,7 @@ import collections
 #     line_generator = sys.stdin
 # for line in line_generator:
 #     ### analyze line ###
-
+fw = open('data_live6_output.json','a')
 
 def parse_and_insert(tweet):
     #parsed tweet
@@ -61,25 +61,22 @@ def parse_and_insert(tweet):
         user_mentions.append(item.get('screen_name'))
     parsed_tweet.update({'user_mentions': user_mentions})
     #sorting accourding to key fields in dictonary
-    od_parsed_tweet = collections.OrderedDict(sorted(parsed_tweet.items()))
+    order_parsed_tweet = collections.OrderedDict(sorted(parsed_tweet.items()))
 
-    print(json.dumps(od_parsed_tweet, indent=4)) # pretty-print
-    #f.write(json.dumps(od_parsed_tweet))
+    #print(json.dumps(order_parsed_tweet, indent=4)) # pretty-print
+    fw.write(json.dumps(order_parsed_tweet))
+    fw.write("\n")
     return;
 
 
-with open('test_sample.json', 'r') as f:
+with open('data_live6.json', 'r') as f:
     # read tweets line by line
     for line in f:
-        tweet = json.loads(line) # load it as Python dict
-        parse_and_insert(tweet)
-    # try:
-    #     actor_id_string = line_object["actor"]["id"]
-    #     actor_id = int( actor_id_string.split(":")[2] )
-    #     language_code = line_object["twitter_lang"]
-    # except KeyError, e:
-    #     actor_id = -1
-    #     language_code = "Null"
+    	try:
+        	tweet = json.loads(line) # load it as Python dict
+        	parse_and_insert(tweet)
+        except:
+        	pass
 
 #coordinates - Coordinates object
 #place - Places object
