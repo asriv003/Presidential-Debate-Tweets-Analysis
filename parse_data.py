@@ -1,6 +1,7 @@
 import json
 import sys
 import collections
+import re
 
 # if len(sys.argv) > 1:
 #     line_generator = open(sys.argv[1])
@@ -8,7 +9,7 @@ import collections
 #     line_generator = sys.stdin
 # for line in line_generator:
 #     ### analyze line ###
-fw = open('data_live6_output.json','a')
+fw = open('data_live6_output_2.json','a')
 
 def parse_and_insert(tweet):
     #parsed tweet
@@ -17,8 +18,17 @@ def parse_and_insert(tweet):
         parse_and_insert(tweet.get('quoted_status'))
     parsed_tweet = {'created_at': tweet.get('created_at')}
     parsed_tweet.update({'tweet_id': tweet.get('id')})
-    parsed_tweet.update({'tweet_text': tweet.get('text')})
-    parsed_tweet.update({'tweet_source': tweet.get('source')})
+    tweet_text = re.sub(r"http\S+", "", tweet.get('text'))
+    parsed_tweet.update({'tweet_text': tweet_text})
+    
+    if "android" in tweet.get('source'):
+    	tweet_source = "Android"
+    elif "iphone" in tweet.get('source'):
+    	tweet_source = "iPhone"
+    else:
+    	tweet_source = "Web"
+
+    parsed_tweet.update({'tweet_source': tweet_source})
     parsed_tweet.update({'in_reply_to_status_id': tweet.get('in_reply_to_status_id')})
     parsed_tweet.update({'in_reply_to_user_id': tweet.get('in_reply_to_user_id')})
     parsed_tweet.update({'in_reply_to_screen_name': tweet.get('in_reply_to_screen_name')})

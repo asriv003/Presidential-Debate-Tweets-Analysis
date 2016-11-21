@@ -1,7 +1,9 @@
 from mongokit import Connection, Document
-from settings import MONGO_HOST, MONGO_PORT
 import datetime
 
+
+MONGO_HOST = '127.0.0.1'
+MONGO_PORT = 27017
 
 connection = Connection(MONGO_HOST, MONGO_PORT)
 
@@ -37,7 +39,10 @@ class Tweets(Document):
             'user_mentions': list, 
             'user_name': unicode, 
             'user_screen_name': unicode, 
-            'user_verified': bool
+            'user_verified': bool,
+            'candidate_name': unicode,
+            'text_sentiment': int,
+            'sentiment_confidence': float
         }
 
     use_dot_notation = True
