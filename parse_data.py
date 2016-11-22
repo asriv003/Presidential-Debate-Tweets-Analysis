@@ -3,13 +3,15 @@ import sys
 import collections
 import re
 
+reload(sys)
+sys.setdefaultencoding('utf-8')
 # if len(sys.argv) > 1:
 #     line_generator = open(sys.argv[1])
 # else:
 #     line_generator = sys.stdin
 # for line in line_generator:
 #     ### analyze line ###
-fw = open('data_live6_output_2.json','a')
+fw = open('data_live6_output_3.json','a')
 
 def parse_and_insert(tweet):
     #parsed tweet
@@ -19,7 +21,7 @@ def parse_and_insert(tweet):
     parsed_tweet = {'created_at': tweet.get('created_at')}
     parsed_tweet.update({'tweet_id': tweet.get('id')})
     tweet_text = re.sub(r"http\S+", "", tweet.get('text'))
-    parsed_tweet.update({'tweet_text': tweet_text})
+    parsed_tweet.update({'tweet_text': tweet_text.lower()})
     
     if "android" in tweet.get('source'):
     	tweet_source = "Android"
@@ -87,8 +89,3 @@ with open('data_live6.json', 'r') as f:
         	parse_and_insert(tweet)
         except:
         	pass
-
-#coordinates - Coordinates object
-#place - Places object
-#quoted_status - Tweet object
-#entities - Entities object
