@@ -2,6 +2,7 @@ import json
 import re
 from sentiment_module import sentiment
 
+fw = open('sentiment_output.json','a')
 
 def sentiment_eval(tweet_text):
     result = sentiment(tweet_text)
@@ -44,6 +45,12 @@ with open('data_live6_output_3.json', 'r') as f:
                 sentiment = sentiment_eval(tweet.get('tweet_text'))
                 tweet.update({'text_sentiment': sentiment[0]})
                 tweet.update({'sentiment_confidence': sentiment[1]})
+
+                #sorting accourding to key fields in dictonary
+                order_parsed_tweet = collections.OrderedDict(sorted(tweet.items()))
+                #print(json.dumps(order_parsed_tweet, indent=4)) # pretty-print
+                fw.write(json.dumps(order_parsed_tweet))
+                fw.write("\n")
         except:
             pass
 # print count
