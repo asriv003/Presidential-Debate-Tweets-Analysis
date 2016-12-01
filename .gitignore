@@ -1,0 +1,7 @@
+*.json
+pickled/*
+*.txt
+*.pyc
+new_pickled/*
+*.pos
+*.neg

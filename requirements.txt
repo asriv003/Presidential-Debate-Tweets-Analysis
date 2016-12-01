@@ -1,1 +1,7 @@
+nltk
+numpy
+scipy
+scikit-learn
+matplotlib
+pandas
 tweepy==3.5.0
