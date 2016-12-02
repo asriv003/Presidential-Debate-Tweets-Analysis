@@ -14,8 +14,8 @@ trump_count = 0
 hillary_count = 0 
 
 def get_candidate_name(tweet_text):
-    trump = ['trump','donald','republicans', 'conservative','maga', 'lockhimup','pence','racist']
-    hillary = ['liberal','hillary','clinton','democrat','lockherup','progessive','kaine','democratic','left']
+    trump = ['trump','donald','republicans', 'conservative','maga', 'lockhimup','pence','racist','trump2016','StandByTrump','realDonaldTrump']
+    hillary = ['liberal','hillary','clinton','democrat','lockherup','progessive','kaine','democratic','left','hillary2016','IAmWithHer','ImWithHer','HillaryClinton']
     global trump_count, hillary_count
     
 
@@ -39,7 +39,7 @@ def get_candidate_name(tweet_text):
     else:
         return "None"
 
-with open('data_live6_output_3.json', 'r') as f:
+with open('parsed_data/part_aa.json', 'r') as f:
     count = 0
     ncount = 0
     # read tweets line by line
