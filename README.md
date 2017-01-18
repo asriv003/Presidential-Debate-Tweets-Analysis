@@ -35,7 +35,7 @@ Following are the files and their function
 
 	Stores parsed data in parsed_data.json
 
-3. **sentiment_module.py** and **sentiment_trained.py**
+3. **sentiment_module.py** and **sentiment_trained.py** :
 
 	**sentiment_module.py** --> trains the classifiers using positive.txt and negative.txt. It can also save the trained classifier so that we don't have to train it again and again. For time being that code is commented out.
 	It also has a custom classifier which uses those trained classifier and finds the sentiment of text with confidence value.
@@ -43,18 +43,23 @@ Following are the files and their function
 	**sentiment_trained.py** --> same as sentiment_module.py but uses saved classifier.
 	So this will not work if classifier are not already saved.
 
-4. **sentiment_eval.py**
+4. **sentiment_eval.py** :
+	
 	Uses sentiment_module or sentiment_trained to compute sentiments of all the tweets.
+    
     **_python sentiment_eval.py_**
 
 	Output is stored in sentiment_output.json
 
-5. **count_sentiment.py**
-	Just calculates the count of positive and negative tweets for each candidatae
+5. **count_sentiment.py** :
+	
+	Just calculates the count of positive and negative tweets for each candidate.
+    
     **_python count_sentiment.py_**
 	Just prints out the results
 
-6. **JSON** and **text files**
+6. **JSON** and **text files** :
+    
     **data_live.json** --> Contains sample of raw tweets collected during debate
     **parsed_data.json** --> Contains parsed information of raw tweets
     **sentiment_output.json** --> Add sentiment value and confidence value to the parsed tweets
