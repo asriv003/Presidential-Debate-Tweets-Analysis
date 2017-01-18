@@ -8,15 +8,15 @@ Poster in **_poster.pdf_**
 ##Pacakages Installation
 Make sure you install all the requirements form **requirements.txt**
 using pip just run:
-**_pip install -r requirements.txt_**
+`pip install -r requirements.txt`
 
 After installation create a file called new.py and add below line:
 
-**_import nltk_**
+`import nltk`
 
-**_nltk.download()_**
+`nltk.download()`
 
-save it and run it -- **_python new.py_**
+save it and run it -- `python new.py`
 
 It will take few minutes to install **ntlk** packages
 
@@ -25,13 +25,13 @@ Following are the files and their function
 
 1. **stream.py** --> uses twitter streaming API to get live tweets 
     
-    **_python stream.py > data_live.json_**
+    `python stream.py > data_live.json`
 
 	Stores tweets in data_live.json
 
 2. **parse_data.py** --> parses raw data and select necessary attributes
 
-    **_python parse_data.py_**
+    `python parse_data.py`
 
 	Stores parsed data in parsed_data.json
 
@@ -47,7 +47,7 @@ Following are the files and their function
 	
 	Uses sentiment_module or sentiment_trained to compute sentiments of all the tweets.
     
-    **_python sentiment_eval.py_**
+    `python sentiment_eval.py`
 
 	Output is stored in sentiment_output.json
 
@@ -55,7 +55,8 @@ Following are the files and their function
 	
 	Just calculates the count of positive and negative tweets for each candidate.
     
-    **_python count_sentiment.py_**
+    `python count_sentiment.py`
+	
 	Just prints out the results
 
 6. **JSON** and **text files** :
